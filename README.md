@@ -1,7 +1,6 @@
 ## Hello visitor 👋
 
 - 🔭 I’m currently working as a full-stack systems analyst
-- 🌱 I’m studying typescript
 
 <div align="center">
   <a href="https://github.com/saulo2706">
